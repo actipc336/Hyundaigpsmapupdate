@@ -4,8 +4,12 @@ How to Update Hyundai GPS Map?
    :maxdepth: 2
    :caption: Contents:
 
-For Update: https://tek.chat/
-========
+.. image:: https://mercedesbenzgpsupdate.readthedocs.io/en/latest/_images/update.gif
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://navisolve.com/
+
 
 Keeping the GPS navigation system in your Hyundai vehicle updated is essential for safe, efficient, and accurate travel. As roads change, new developments emerge, and traffic patterns shift, outdated maps can lead to detours, delays, or even wrong turns. Fortunately, Hyundai provides a structured and user-friendly process for updating the navigation system. Whether you're driving a compact sedan or a full-size SUV, this guide will walk you through the complete steps to keep your Hyundai GPS updated and functioning at its best.
 
