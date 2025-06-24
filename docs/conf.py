@@ -1,4 +1,4 @@
-project = 'PeacocktvGuide12'
+project = 'Hyundai GPS Update'
 author = 'Your Name'
 release = '1.0'
 
